@@ -1,7 +1,8 @@
-# Curso_Python_Pandas_Digital_Innovation
- Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
+# Pasta/Projeto para o BootCamp da DIO com Unime-BH
+
+ Repositório do BT
  
- **Assuntos abordados neste curso**:
+ **Tópicos**:
  1. Python Básico
  1. Estrutura de dados
  1. Introdução a Biblioteca Pandas
